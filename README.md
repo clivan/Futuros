@@ -32,3 +32,14 @@
 * [atm-cli](https://github.com/clivan/atm-cli)
 * [awesome-ros2](https://github.com/clivan/awesome-ros2)
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [VirtualAssistant](https://github.com/joeVenner/VirtuelAssistant)
+* [100DaysDS](https://github.com/kindersham/100DaysDS)
+* [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [PythonRobotics](https://github.com/jslee02/awesome-robotics-libraries)
+* [vrn](https://github.com/AaronJackson/vrn)
+* [colorization](https://github.com/richzhang/colorization)
+* [crnn](https://github.com/bgshih/crnn)
+* [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+* [neural-style-painting](https://github.com/log0/neural-style-painting
+* [QuickDraw](https://github.com/uvipen/QuickDraw)
+* 
