@@ -40,6 +40,6 @@
 * [colorization](https://github.com/richzhang/colorization)
 * [crnn](https://github.com/bgshih/crnn)
 * [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
-* [neural-style-painting](https://github.com/log0/neural-style-painting
+* [neural-style-painting](https://github.com/log0/neural-style-painting)
 * [QuickDraw](https://github.com/uvipen/QuickDraw)
 * 
