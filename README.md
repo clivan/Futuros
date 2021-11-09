@@ -56,8 +56,7 @@
 * [200+ Machine Learning projects](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
 * [Hidden images in spectrograms](https://scipython.com/blog/hidden-images-in-spectrograms/)
 * [DIY Image Sensor and Digital Camera](https://www.instructables.com/DIY-Image-Sensor-and-Digital-Camera/)
-* 
-* 
+* [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot) 
 * 
 * 
 * 
