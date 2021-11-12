@@ -57,6 +57,7 @@
 * [Hidden images in spectrograms](https://scipython.com/blog/hidden-images-in-spectrograms/)
 * [DIY Image Sensor and Digital Camera](https://www.instructables.com/DIY-Image-Sensor-and-Digital-Camera/)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot) 
+* [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
 * 
 * 
 * 
