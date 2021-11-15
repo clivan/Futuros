@@ -50,7 +50,6 @@
 * [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
 * [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
 * [TileDB](https://github.com/TileDB-Inc/TileDB)
-* [FreeCodeCamp exercises](https://github.com/orgs/ine-rmotr-curriculum/repositories)
 * [Infinite-Z-Beam](https://github.com/RepRapLtd/Infinite-Z-Beam)
 * [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
 * [200+ Machine Learning projects](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
