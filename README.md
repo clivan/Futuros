@@ -57,6 +57,6 @@
 * [DIY Image Sensor and Digital Camera](https://www.instructables.com/DIY-Image-Sensor-and-Digital-Camera/)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot) 
 * [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
-* 
+* [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 * 
 * 
