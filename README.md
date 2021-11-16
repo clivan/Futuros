@@ -58,7 +58,7 @@
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot) 
 * [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
 * [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
-* [PyAdvancedControl](dhttps://github.com/AtsushiSakai/PyAdvancedControl)
+* [PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl)
 * [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
 * [Stanford Self driving car code](https://github.com/emmjaykay/stanford_self_driving_car_code)
