@@ -37,7 +37,6 @@
 * [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 * [neural-style-painting](https://github.com/log0/neural-style-painting)
 * [QuickDraw](https://github.com/uvipen/QuickDraw)
-* [Fortran](https://github.com/astrofrog/fortranlib)
 * [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
 * [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
@@ -65,6 +64,7 @@
 * [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
 * [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 * 
 * 
 * 
