@@ -65,6 +65,26 @@
 * [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+* [Boost](https://github.com/boostorg)
+* [AudioFile](https://github.com/adamstark/AudioFile)
+* [Tabulate](https://github.com/p-ranav/tabulate)
+* [CSV2](https://github.com/p-ranav/csv2)
+* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)
+* [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
+* [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+* [Json C++](https://github.com/open-source-parsers/jsoncpp)
+* [NumC++](https://github.com/dpilger26/NumCpp)
+* [PDF](https://github.com/libharu/libharu)
+* [Box2d](https://github.com/erincatto/Box2D)
+* [Bullet 3](https://github.com/bulletphysics/bullet3)
+* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
+* [SymEngine](https://github.com/symengine/symengine)
+* [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
+* [Simbody](https://github.com/simbody/simbody)
+* [GSL](http://www.gnu.org/software/gsl/)
+* 
+* 
+* 
 * 
 * 
 * 
