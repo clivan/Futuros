@@ -82,6 +82,22 @@
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
 * [Simbody](https://github.com/simbody/simbody)
 * [GSL](http://www.gnu.org/software/gsl/)
+* [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
+* [A 3D modeller](http://aosabook.org/en/500L/a-3d-modeller.html)
+* [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+* [Key Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+* [My own server](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+* [Rubber docker](https://github.com/Fewbytes/rubber-docker)
+* [Mocker clone](https://github.com/tonybaloney/mocker)
+* [Emulator](http://omokute.blogspot.com/2012/06/emulation-basics-write-your-own-chip-8.html)
+* [OS](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+* [OS](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+* [Compiler](https://www.youtube.com/watch?v=eF9qWbuQLuw)
+* [Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+* [Shell](https://github.com/tokenrove/build-your-own-shell)
+* [A simple web server](http://aosabook.org/en/500L/a-simple-web-server.html)
+* [WebApp](https://defn.io/2018/02/25/web-app-from-scratch-01/)
+* [HTTP](https://joaoventura.net/blog/2017/python-webserver/)
 * 
 * 
 * 
