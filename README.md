@@ -99,7 +99,7 @@
 * [WebApp](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 * [HTTP](https://joaoventura.net/blog/2017/python-webserver/)
 * [PyMongo](https://realpython.com/introduction-to-mongodb-and-python/)
-* 
+* [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 * 
 * 
 * 
