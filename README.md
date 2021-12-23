@@ -100,7 +100,7 @@
 * [HTTP](https://joaoventura.net/blog/2017/python-webserver/)
 * [PyMongo](https://realpython.com/introduction-to-mongodb-and-python/)
 * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
-* 
+* [PCB](https://github.com/risejohan/2Bit?fbclid=IwAR2G2EfXMAqJaMUq6j9GQ19YbiLI3Om7TCIwyk_dbtfd7swmfJQ02HuLe7Q)
 * 
 * 
 * 
