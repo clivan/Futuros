@@ -6,7 +6,6 @@
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [VOCANO](https://github.com/B05901022/VOCANO)
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
-* [C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [city-roads](https://github.com/anvaka/city-roads)
 * [slidev](https://github.com/slidevjs/slidev)
