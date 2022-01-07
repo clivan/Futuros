@@ -100,7 +100,8 @@
 * [PyMongo](https://realpython.com/introduction-to-mongodb-and-python/)
 * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [PCB](https://github.com/risejohan/2Bit?fbclid=IwAR2G2EfXMAqJaMUq6j9GQ19YbiLI3Om7TCIwyk_dbtfd7swmfJQ02HuLe7Q)
-* 
+* [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
+* [A64-OLinuxXino](https://github.com/OLIMEX/OLINUXINO/tree/master/HARDWARE/A64-OLinuXino)
 * 
 * 
 * 
