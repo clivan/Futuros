@@ -111,4 +111,5 @@
 * [streamlit](https://github.com/streamlit/streamlit)
 * [Build your own](https://github.com/danistefanovic/build-your-own-x)
 * [Keyboard](https://there.oughta.be/a/macro-keyboard)
+* [Mercury](https://github.com/mljar/mercury)
 * 
