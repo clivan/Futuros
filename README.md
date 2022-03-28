@@ -114,3 +114,4 @@
 * [Mercury](https://github.com/mljar/mercury)
 * [MLPP](https://github.com/novak-99/MLPP)
 * [Stock preditcion](https://blog.devgenius.io/predicting-tesla-stocks-tsla-using-python-pycaret-45af9ed47de9)
+* [NumpPy image processing](https://analyticsindiamag.com/a-beginners-guide-to-image-processing-using-numpy/)
