@@ -9,7 +9,6 @@
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [city-roads](https://github.com/anvaka/city-roads)
 * [slidev](https://github.com/slidevjs/slidev)
-* [Python](https://github.com/TheAlgorithms/Python)
 * [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 * [computer-science](https://github.com/ossu/computer-science)
 * [boot-selection](https://github.com/stecman/hw-boot-selection)
